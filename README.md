@@ -4,7 +4,4 @@ About me:
 Hi, I'm Jericko Philip Marquez student of University of Baguio currently taking BSIT
 ...
 
-Testing ormotanyo
-
-hello
-uhjnj
+xccopyvscode
